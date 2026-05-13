@@ -3,8 +3,7 @@
 ## 1. API Layer
 **Endpoints**
 - `POST /query` → Main interface for user queries
-- `POST /ingest/document` → Upload SOPs / PDFs
-- `POST /ingest/ticket` → Upload ticket data
+- `POST /ingest` → Upload SOPs / PDFs / ticket data
 - `POST /feedback` → Capture user feedback
 - `GET /health` → System health check
 
